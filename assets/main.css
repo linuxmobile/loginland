@@ -300,7 +300,7 @@ h2 {
         color: var(--text-dark);
     }
     ::placeholder {
-        color: #233a4869;
+        color: #233a489c;
     }
     .image {
         display: none;
