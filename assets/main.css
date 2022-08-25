@@ -1,0 +1,26 @@
+/* Replace selection color 🕶️ */
+::-moz-selection { /* Code for Firefox */
+    background: #43685a;
+  } 
+  ::selection {
+    background: #43685a;
+  }
+
+/* General 🪄 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --dark: #233A48;
+    --white: #FAFAF6;
+    --text: #E5E3CE;
+    --text-dark: #23343F;
+    --avocado: #426E66;
+    --lime: #BED0A6;
+    --leave: #6C9585;
+    --strong: abril-fatface, serif;
+    --paragraph: raleway, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
