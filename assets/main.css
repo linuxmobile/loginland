@@ -80,6 +80,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 5px 5px 10px 4px rgba(17, 17, 26, 0.18);
 }
 .image__card {
     width: 70%;
